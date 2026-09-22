@@ -40,4 +40,4 @@ I work across the data pipeline — from exploratory analysis and reporting to b
 **[liver-cirrhosis-synthetic-data](https://github.com/Michaeludousoro/liver-cirrhosis-synthetic-data)** — Synthetic data generation (GAN, cGAN, VAE) with IQR filtering and consensus voting, evaluating predictive utility for liver cirrhosis mortality prediction on the Mayo Clinic PBC cohort.
 
 ### 📊 GitHub Stats
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michaeludousoro&show_icons=true&theme=default)
+![Michael's GitHub stats](https://github-stats-extended.vercel.app/api?username=Michaeludousoro&show_icons=true&theme=default)
