@@ -36,8 +36,20 @@ I work across the data pipeline — from exploratory analysis and reporting to b
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
-### 📌 Featured Project
+### 📌 Featured Projects
+
 **[liver-cirrhosis-synthetic-data](https://github.com/Michaeludousoro/liver-cirrhosis-synthetic-data)** — Synthetic data generation (GAN, cGAN, VAE) with IQR filtering and consensus voting, evaluating predictive utility for liver cirrhosis mortality prediction on the Mayo Clinic PBC cohort.
+
+**[Data Analytics Portfolio](https://michaeludousoro.github.io/data-analytics-portfolio)** ([repo](https://github.com/Michaeludousoro/data-analytics-portfolio)) — Six end-to-end case studies, each from a real business question to a written report, a dashboard, and a recommendation for a named stakeholder:
+
+| Sector | Case study | Stack |
+|---|---|---|
+| Transport | Santander Cycles demand and rebalancing across London (1.66M trips) | SQL (DuckDB), Python, Tableau |
+| Healthcare | NHS A&E national trend and trust-level benchmarking | SQL (DuckDB), Python, Tableau |
+| Retail | Olist customer experience, retention, and AI sentiment analysis | SQL, Python, NLP, Tableau |
+| Finance | Credit risk — setting a smarter approval cutoff | SQL (DuckDB), Python, Excel, Tableau |
+| Marketing | Maven Fuzzy Factory funnel analysis and A/B tests | SQL, Python, Tableau |
+| Energy | Global power plants and the renewable transition (~28,700 plants) | Python, Plotly, matplotlib |
 
 ### 📊 GitHub Stats
 ![Michael's GitHub stats](https://github-stats-extended.vercel.app/api?username=Michaeludousoro&show_icons=true&theme=default)
